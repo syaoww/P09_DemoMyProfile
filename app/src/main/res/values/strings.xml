@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoMy Profile</string>
+    <string name="name">Name</string>
+    <string name="gpa">gpa</string>
+</resources>
